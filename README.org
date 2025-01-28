@@ -1,10 +1,10 @@
 * What is this?
-This program calculates how many "mainosnippu" you need to take to different "nippukaappi"s around Tuira.
+I used to work for the Finnish Posti and I used to deliver the mail by car. This program calculates how many ad bundles I would need to take to different ad cabinets around the city.
+
 * How does it work?
-The program asks you how big the "mainosnippu" is (how many "mainos" are in the "nippu"). Then it calculates all the different amounts of "nippu"s that you have to take, and to what "kaappi"s.
-* Terminology
-- Mainos = an advertisement
-- Nippu = "a stack"
-- Kaappi = "a closet" or "a small storage space"
-- Mainosnippu = a stack of advertisement magazines
-- Nippukaappi = a little storage space for the "mainosnippu"s. A postman can get more adds when they need them.
+The program asks you how big the bundle of ads is. Then it calculates all the different amounts of bundles that you have to take, and to which cabinets.
+
+* Future plans
+1. I would like to make a GUI for this app.
+2. I would like to make the application generate a pdf file or a picture of the results so that its easier to look at.
+3. I would really like to make this into a mobile application, because otherwise its kinda useless.
