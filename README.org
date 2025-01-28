@@ -1,0 +1,10 @@
+* What is this?
+This program calculates how many "mainosnippu" you need to take to different "nippukaappi"s around Tuira.
+* How does it work?
+The program asks you how big the "mainosnippu" is (how many "mainos" are in the "nippu"). Then it calculates all the different amounts of "nippu"s that you have to take, and to what "kaappi"s.
+* Terminology
+- Mainos = an advertisement
+- Nippu = "a stack"
+- Kaappi = "a closet" or "a small storage space"
+- Mainosnippu = a stack of advertisement magazines
+- Nippukaappi = a little storage space for the "mainosnippu"s. A postman can get more adds when they need them.
